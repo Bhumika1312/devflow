@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+*.log
+.env
+devflow-backend/.env
+ios/
+android/
+.DS_Store
